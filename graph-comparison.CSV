@@ -1,0 +1,13 @@
+;nodes;edges;clustering coefficient;connected components;network diameter;isolated nodes;
+Biogrid-based networks;;;;;;;
+glioblastoma multiforme;2507;6108;0.076;4;9;3;
+general glioma;1907;4100;0.063;4;8;3;
+astrocytoma;1842;3813;0.035;4;8;3;
+merged intersection;333;379;0.048;18;10;10;
+merged union;565;1005;0.217;3;12;0;
+StringDB-based networks;;;;;;;
+glioblastoma multiforme;538;911;0.229;5;9;0;
+general glioma;392;559;0.130;6;10;0;
+astrocytoma;368;489;0.103;5;12;0;
+merged intersection;1718;3439;0.008;14;9;13;
+merged union;2567;6340;0.076;4;9;3;

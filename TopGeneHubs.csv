@@ -1,0 +1,37 @@
+﻿BioGrid:;highest degree;gene;gene name;cl1 status;cluster number;;StringDB:;highest degree;gene;gene name;cl1 status;cluster number;gene
+general glioma;;;;;;;general glioma;;;;;;
+;289; ERBB2 / HER2;erb-b2 receptor tyrosine kinase 2;outlier;1;;;66;ERBB2 / HER2;erb-b2 receptor tyrosine kinase 2;outlier;1;ENSP00000269571
+;117;ERBB4 / HER4;erb-b2 receptor tyrosine kinase 4;cluster;1;;;39;ERBB4 / HER4;erb-b2 receptor tyrosine kinase 4;outlier;na;ENSP00000342235
+;115;CCND3;cyclin D3;outlier;2;;;30;TEK;TEK receptor tyrosine kinase;outlier;na;ENSP00000369375
+;36;INCA1;inhibitor of CDK, cyclin A1 interacting protein 1;outlier;10;;;27;CCND3;cyclin D3;outlier;na;ENSP00000362082
+;31;P8 / NUPR1;nuclear protein transcriptional regulator 1;outlier;7;;;12;TGFB3;transforming growth factor beta 3;outlier;na;ENSP00000238682
+;29;TIE-2;TEK tyrosine kinase endothelial;cluster;na;;;4;TGFA;transforming growth factor alpha;cluster;na;ENSP00000295400
+;16;CDK4;cyclin-dependent kinase 4;outlier;na;;;3;KRAS;KRAS proto-oncogene;outlier;1;ENSP00000256078
+;15;TGFA;transforming growth factor alpha;overlap;na;;;3;HRAS;HRas proto-oncogene;outlier;1;ENSP00000309845
+;12;CDKN1A / CIP1;cyclin-dependent kinase inhibitor 1A;outlier;na;;;3;GRB2;growth factor receptor bound protein 2;outlier;na;ENSP00000339007
+;11;CDK6;cyclin-dependent kinase 6;outlier;na;;;3;NRAS;NRAS proto-oncogene;outlier;1;ENSP00000358548
+;11;HSP90N;heat shock protein 90kDa alpha class A member 1;outlier;na;;;;;;;;
+;;;;;;;;;;;;;
+glioblastoma multiforme;;;;;;;GBM;;;;;;
+;1178;p33 / CDK2;cyclin dependent kinase 2;outlier;1;;;165;CDK2;cyclin-dependent kinase 2;outlier;na;ENSP00000266970
+;314;CCNA2 / CCN1;cyclin A2;cluster;4,3;;;89;CCNB1;cyclin B1;outlier;na;ENSP00000256442
+;290;CCNB1 / CCNB;cyclin B1;overlap;4,3;;;66;ERBB2 / HER2;erb-b2 receptor tyrosine kinase 2;outlier;na;ENSP00000269571
+;289;CD340 / ERBB2 / HER2;erb-b2 receptor tyrosine kinase 2;outlier;1;;;42;CCNA2;cyclin A2;outlier;na;ENSP00000274026
+;228;CCNE1;cyclin E1;overlap;1;;;40;CCNE1;cyclin E1;outlier;na;ENSP00000262643
+;115;CCND3;cyclin D3;cluster;4,3;;;38;CCNB2;cyclin B2;outlier;na;ENSP00000288207
+;107;LPC1 / ANXA1;annexin A1;cluster;27,13;;;27;CCND3;cyclin D3;outlier;na;ENSP00000362082
+;100;CDKN1A / CIP1;cyclin-dependent kinase inhibitor 1A;overlap;1;;;23;VEGFA;vascular endothelial growth factor A;outlier;na;ENSP00000361125
+;66;HIF1A;hypoxia inducible factor 1 alpha subunit;cluster;1;;;16;TGFB2;transforming growth factor beta 2;outlier;na;ENSP00000355896
+;83;P34CDC2 / CDK1;cyclin-dependent kinase 1;overlap;1;;;12;TGFB3;transforming growth factor beta 3;outlier;na;ENSP00000238682
+;;;;;;;;;;;;;
+astrocytoma;;;;;;;astrocytoma;;;;;;
+;117;ERBB4 / HER4;erb-b2 receptor tyrosine kinase 4;overlap;2;;;39;ERBB4 / HER4;erb-b2 receptor tyrosine kinase 4;outlier;na;ENSP00000342235
+;107;LPC1 / ANXA1;annexin A1;cluster;12;;;23;VEGFA / VEGF;vascular endothelial growth factor A;outlier;na;ENSP00000361125
+;62;MVCD1 / VEGF;vascular endothelial growth factor A;cluster;3;;;17;CCNE2;cyclin E2;outlier;na;ENSP00000309181
+;36;CYCE2 / CCNE2;cyclin E2;cluster;1;;;16;TGFB2;transforming growth factor beta 2;outlier;na;ENSP00000355896
+;20;IL-6R-1 / IL6R;interleukin 6 receptor;outlier;11;;;7;IL6R;interleukin 6 receptor;outlier;na;ENSP00000357470
+;13;p33 / CDK2;cyclin dependent kinase 2;outlier;1;;;4;ANXA1;annexin A1;outlier;na;ENSP00000257497
+;9;CCNI2;cyclin I familiy member 2;cluster;na ;;;4;CD86;CD86 molecule;outlier;na;ENSP00000332049
+;9;NRP1 / NP1;neuropilin 1;cluster;3;;;3;STAT3;signal transducer and activator of transcription 3;outlier;na;ENSP00000264657
+;8;TGFB2;transforming growth factor beta 2;outlier;na ;;;3;UBC;ubiquitin C;outlier;na;ENSP00000344818
+;8;CD86;CD86 molecule;outlier;10;;;2;DCN;decorin;outlier;na;ENSP00000052754
